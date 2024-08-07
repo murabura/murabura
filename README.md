@@ -1,16 +1,15 @@
-## ben vino ao meu perfil
+## Bem Vindo ao meu perfil 🎱🥇
 
+Meu nome : Murilo Buranelli Veronez
+- Estou estudando na [Alura](https:\\www.alura.com.br)
+- Estou me desenvolvendo na linguagem javascript
+- Estou utilizando esse espaço para minha organizaçao e compartilhamentos dos meus projetos desenvolvidos
 
-**murabura/murabura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ### voce entra em contato comigo 📧
 
-Here are some ideas to get you started:
+mburanelliveronez@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+@mbz
 
+![](
+https://media1.tenor.com/m/24xNRJPnHFMAAAAC/enraged-vlad-dracula-tepes.gif)
